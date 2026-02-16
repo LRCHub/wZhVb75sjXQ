@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "TGIF",
+  "base_artist": "XG",
+  "createdAt": "2026-02-16T08:52:36.593134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tgif",
+      "artist": "The Secret Handshake",
+      "has_synced": true,
+      "path": "select/01_Tgif_The_Secret_Handshake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TGIF",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/02_TGIF_XG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tgif",
+      "artist": "pH-1",
+      "has_synced": true,
+      "path": "select/03_Tgif_pH-1.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Friday Night (TGIF) (Album Version)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/04_Last_Friday_Night_(TGIF)_(Album_Version)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Friday Night (TGIF) (Carlos Cid & Greg Bahary's Hott 22 Dirty Dub)",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/05_Last_Friday_Night_(TGIF)_(Carlos_Cid_&_Greg_Bahary's_Hott_22_Dirty_Dub)_Katy_Perry.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Friday Night (TGIF) (Carlos Cid & Greg Bahary's Hott 22 Vocal Club Mix)",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/06_Last_Friday_Night_(TGIF)_(Carlos_Cid_&_Greg_Bahary's_Hott_22_Vocal_Club_Mix)_Katy_Perry.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TGIF",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/07_TGIF_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TGIF",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/08_TGIF_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TGIF (feat. Tom Morello)",
+      "artist": "K.Flay feat. Tom Morello",
+      "has_synced": true,
+      "path": "select/09_TGIF_(feat._Tom_Morello)_K.Flay_feat._Tom_Morello.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TGIF (feat. Tom Morello)",
+      "artist": "K.Flay",
+      "has_synced": true,
+      "path": "select/10_TGIF_(feat._Tom_Morello)_K.Flay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TGIF",
+      "artist": "Mwuana",
+      "has_synced": true,
+      "path": "select/11_TGIF_Mwuana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Friday Night (TGIF) (album version)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/12_Last_Friday_Night_(TGIF)_(album_version)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lovin', Livin' And Givin' (Unedited \"TGIF\" Mix)",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/13_Lovin',_Livin'_And_Givin'_(Unedited__TGIF__Mix)_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "TGIF (Dong Woo Solo)",
+      "artist": "INFINITE",
+      "has_synced": true,
+      "path": "select/14_TGIF_(Dong_Woo_Solo)_INFINITE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tgif",
+      "artist": "Sewerperson",
+      "has_synced": true,
+      "path": "select/15_Tgif_Sewerperson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tgif",
+      "artist": "9ice",
+      "has_synced": false,
+      "path": "select/16_Tgif_9ice.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TGIF",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_TGIF_XG.txt"
+    }
+  ]
+}
